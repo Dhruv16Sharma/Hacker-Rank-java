@@ -6,7 +6,7 @@ public class Solution {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String s = scan.nextLine();
-        // Write your code here.
+       
         String[] tokens = s.split("[^a-zA-Z]");
          int numTokens = 0;
         
